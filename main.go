@@ -59,7 +59,7 @@ func PrintDice(rolls []int) {
 
 // TODO: take highest number roll
 func RollWithAdvantage() {
-	fmt.Println("test")
+	fmt.Println("New Release")
 }
 
 // TODO: take lowest number roll
